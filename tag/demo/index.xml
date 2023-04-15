@@ -13,11 +13,76 @@
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
+      <title>Индивидуальный проект</title>
+      <link>https://example.com/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
-      <description></description>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Этапы реализации проекта&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;1размещение-на-github-pages-заготовки-для-персонального-сайта&#34;&gt;1.Размещение на Github pages заготовки для персонального сайта.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Установить необходимое программное обеспечение.&lt;/li&gt;
+&lt;li&gt;Скачать шаблон темы сайта.&lt;/li&gt;
+&lt;li&gt;Разместить его на хостинге git.&lt;/li&gt;
+&lt;li&gt;Установить параметр для URLs сайта.&lt;/li&gt;
+&lt;li&gt;Разместить заготовку сайта на Github pages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2добавить-к-сайту-данные-о-себе&#34;&gt;2.Добавить к сайту данные о себе.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Список добавляемых данных.
+Разместить фотографию владельца сайта.
+Разместить краткое описание владельца сайта (Biography).
+Добавить информацию об интересах (Interests).
+Добавить информацию от образовании (Education).&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+Управление версиями. Git.
+Непрерывная интеграция и непрерывное развертывание (CI/CD).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;3добавить-к-сайту-достижения&#34;&gt;3.Добавить к сайту достижения.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Список достижений.
+Добавить информацию о навыках (Skills).
+Добавить информацию об опыте (Experience).
+Добавить информацию о достижениях (Accomplishments).&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+Легковесные языки разметки.
+Языки разметки. LaTeX.
+Язык разметки Markdown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;4добавить-к-сайту-ссылки-на-научные-и-библиометрические-ресурсы&#34;&gt;4.Добавить к сайту ссылки на научные и библиометрические ресурсы.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Зарегистрироваться на соответствующих ресурсах и разместить на них ссылки на сайте:
+eLibrary : &lt;a href=&#34;https://elibrary.ru/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://elibrary.ru/;&lt;/a&gt;
+Google Scholar : &lt;a href=&#34;https://scholar.google.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/;&lt;/a&gt;
+ORCID : &lt;a href=&#34;https://orcid.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://orcid.org/;&lt;/a&gt;
+Mendeley : &lt;a href=&#34;https://www.mendeley.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mendeley.com/;&lt;/a&gt;
+ResearchGate : &lt;a href=&#34;https://www.researchgate.net/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/;&lt;/a&gt;
+Academia.edu : &lt;a href=&#34;https://www.academia.edu/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.academia.edu/;&lt;/a&gt;
+arXiv : &lt;a href=&#34;https://arxiv.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/;&lt;/a&gt;
+github : &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+Оформление отчёта.
+Создание презентаций.
+Работа с библиографией.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;5добавить-с-сайту-все-остальные-элементы&#34;&gt;5.Добавить с сайту все остальные элементы.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать записи для персональных проектов.&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору.
+Языки научного программирования.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;6размещение-двуязычного-сайта-на-github&#34;&gt;6.Размещение двуязычного сайта на Github.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать поддержку английского и русского языков.&lt;/li&gt;
+&lt;li&gt;Разместить элементы сайта на обоих языках.&lt;/li&gt;
+&lt;li&gt;Разместить контент на обоих языках.&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору (на двух языках).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
